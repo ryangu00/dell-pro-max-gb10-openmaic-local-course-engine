@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "order": 1,
+  "type": "slide",
+  "content": {
+    "type": "slide",
+    "canvas": {
+      "elements": [
+        {
+          "id": "outside",
+          "type": "shape",
+          "left": 900,
+          "top": 10,
+          "width": 200,
+          "height": 10
+        }
+      ]
+    }
+  }
+}

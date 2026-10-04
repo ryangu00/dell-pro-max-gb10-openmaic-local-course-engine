@@ -1,0 +1,28 @@
+{
+  "synthetic": true,
+  "order": 1,
+  "type": "slide",
+  "content": {
+    "type": "slide",
+    "canvas": {
+      "elements": [
+        {
+          "id": "left",
+          "type": "text",
+          "left": 80,
+          "top": 160,
+          "width": 240,
+          "height": 70
+        },
+        {
+          "id": "right",
+          "type": "text",
+          "left": 380,
+          "top": 160,
+          "width": 240,
+          "height": 70
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "synthetic": true,
+  "order": 1,
+  "type": "slide",
+  "content": {
+    "type": "slide",
+    "canvas": {
+      "elements": [
+        {
+          "id": "title-0",
+          "type": "text",
+          "left": 80,
+          "top": 160,
+          "width": 240,
+          "height": 70
+        },
+        {
+          "id": "title-1",
+          "type": "text",
+          "left": 80,
+          "top": 160,
+          "width": 240,
+          "height": 70
+        },
+        {
+          "id": "title-2",
+          "type": "text",
+          "left": 80,
+          "top": 160,
+          "width": 240,
+          "height": 70
+        },
+        {
+          "id": "body-0",
+          "type": "text",
+          "left": 80,
+          "top": 240,
+          "width": 240,
+          "height": 70
+        },
+        {
+          "id": "body-1",
+          "type": "text",
+          "left": 80,
+          "top": 240,
+          "width": 240,
+          "height": 70
+        },
+        {
+          "id": "body-2",
+          "type": "text",
+          "left": 80,
+          "top": 240,
+          "width": 240,
+          "height": 70
+        }
+      ]
+    }
+  }
+}

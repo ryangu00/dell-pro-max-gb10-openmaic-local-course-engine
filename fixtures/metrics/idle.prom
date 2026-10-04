@@ -1,0 +1,5 @@
+# Synthetic counters for parser tests; not measurements.
+vllm:generation_tokens_total{model_name="fixture-model"} 2890
+vllm:num_requests_running{model_name="fixture-model"} 0.0
+vllm:num_requests_waiting{model_name="fixture-model"} 0.0
+vllm:prompt_tokens_total{model_name="fixture-model"} 0
